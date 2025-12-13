@@ -9,6 +9,7 @@ Customer Management: Efficiently store and manage customer information, ensuring
 ##Account Management: Enable creation, modification, and closure of bank accounts with proper validations.
 
 ##Transaction Handling: Facilitate deposits, withdrawals, and fund transfers with accurate recording and balance checks.
+
 Advantages
 
 Data Management: Centralized storage of customer and account information.
